@@ -1,7 +1,5 @@
 # jihad
  
-# jihad
- 
 markdown = """# Islamic Concepts Helper
 
 A small Python module providing concise explanations of two key Islamic terms and their contextual relevance.
